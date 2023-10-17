@@ -1,5 +1,7 @@
 # random_ball
 
+VIEW OUTPUT: https://sanjay-kumar-sk-mca-23.github.io/Graphic_animation_of_the_random_walk/
+
 Description:
 
 Elevate the animation by enabling user input for modifying the ball's movement, incorporating elements like keyboard and mouse controls, as well as introducing obstacles or targets to enhance interactivity.
